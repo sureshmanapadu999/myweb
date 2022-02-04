@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1 style="color: red; font-size: 40px;" align="center">  suresh TECH APP VERSION-045</h1>
+	<h1 style="color: pink; font-size: 40px;" align="center">  SURESH SOFTWARE TECH SOLUTIONS</h1>
 </body>
 </html>
